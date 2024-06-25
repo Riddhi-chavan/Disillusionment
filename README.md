@@ -29,7 +29,7 @@ Resilience is a React.js application designed to help users navigate a journey f
    git clone https://github.com/Riddhi-chavan/Resilience
    cd resilience-project
 
-2. Install dependencies:
+2.  Install dependencies:
   ```bash
   npm install
   ```
