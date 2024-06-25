@@ -12,34 +12,20 @@ Resilience is a React.js application designed to help users navigate a journey f
 
 ## Live Demo
 
-- [Click here for live demo](your-live-demo-url)
+- [Click here for live demo](https://reliable-starburst-a5492b.netlify.app/)
 
 ## Tech Stack
 
 - **Frontend**: React.js
 - **State Management**: React Hooks
-- **Styling**: CSS
+- **Styling**: tailwind CSS
 
-## Getting Started
-
-### Installation
-
-1. Clone the repository:
-   ```bash
+Clone the repository:
+   
+```bash
    git clone https://github.com/Riddhi-chavan/Resilience
    cd resilience-project
-
-
-
-2. Install dependencies:  
-    
-
-## Usage
-
-1. Start the development server:
-```bash
-npm start
 ```
-2. Open your browser and navigate to http://localhost:3000 to view the application.
 
-
+## Thank You
+Thank you for exploring the Resilience project! We appreciate your interest and hope you find it valuable in your journey. If you have any questions, feedback, or suggestions for improvement, please feel free to reach out. Your input is highly valued and helps us enhance the project for everyone.
